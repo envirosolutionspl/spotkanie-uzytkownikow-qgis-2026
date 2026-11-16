@@ -1,3 +1,5 @@
+> **Repozytorium zostało przeniesione.** Aktualne materiały tych warsztatów znajdziesz w [envirosolutionspl/warsztaty-gis](https://github.com/envirosolutionspl/warsztaty-gis/tree/main/warsztaty/2026_spotkanie-uzytkownikow-qgis_generator-geometrii). To repozytorium jest archiwalne.
+
 # Warsztaty Symbolizacja na sterydach: Magia w Generatorze Geometrii (Prowadzący: Michał Włoga)
 Materiały na warsztaty "Symbolizacja na sterydach: Magia w Generatorze Geometrii" w ramach V Spotkania Użytkowników QGIS 2026 w Łodzi.
 
